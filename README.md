@@ -25,7 +25,7 @@ To run the bot locally, you have to do the following:
 
 ### Add Bot to Server
 
-Can you just install this bot to your server? I'm not sure yet.
+Can you just add this bot to your server? I'm not sure yet, but I don't think so. You need to let the PC running it on 24/7.
 
 
 
@@ -33,6 +33,8 @@ Can you just install this bot to your server? I'm not sure yet.
 
 - I was following [An Idiot's Guide](https://anidiots.guide)
 - I'm not sure what to commit; I'm trying to see what works and what the [internet suggests](https://github.com/github/gitignore/blob/master/Node.gitignore) 
+- [Crash Course on Testing](https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02)
+- [How to Define a JavaScript Class](https://www.phpied.com/3-ways-to-define-a-javascript-class/)
 
 
 ## License

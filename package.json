@@ -1,15 +1,30 @@
 {
-  "name": "discord-shmotbot",
-  "version": "1.0.0",
-  "description": "My first attempt at a Discord bot.",
-  "main": "shmotbot.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Stef Schulz <s.schulz@slothsoft.de> (http://slothsoft.de)",
-  "license": "MIT",
-  "dependencies": {
-    "discord.js": "^11.4.2"
-  }
+	"name": "discord-shmotbot",
+	"version": "1.0.0",
+	"description": "My first attempt at a Discord bot.",
+	"bugs": {
+		"url": "https://github.com/slothsoft/discord-shmotbot/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/slothsoft/discord-shmotbot.git"
+	},
+	"homepage": "http://slothsoft.de/",
+	"author": "Stef Schulz <s.schulz@slothsoft.de> (http://slothsoft.de)",
+	"keywords": [],
+	"license": "MIT",
+	"main": "shmotbot.js",
+	"directories": {
+		"test": "test"
+	},
+	"scripts": {
+		"test": "mocha"
+	},
+	"dependencies": {
+		"discord.js": "^11.4.2"
+	},
+	"devDependencies": {
+		"chai": "^4.2.0",
+		"mocha": "^6.1.4"
+	}
 }
