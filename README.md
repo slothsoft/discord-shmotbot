@@ -4,7 +4,11 @@
 - **Repository:** <https://github.com/slothsoft/discord-shmotbot>
 
 
-My first attempt at a Discord bot.
+My first attempt at a Discord bot. It uses the [shm-reduplication](https://en.wikipedia.org/wiki/Shm-reduplication) to mock your last word:
+
+![Screenshot](https://raw.githubusercontent.com/slothsoft/discord-shmotbot/master/images/screenshot.png)
+
+The first word has to be his name (ShmotBot, Shmotty or Shmot) for him to react.
 
 
 
@@ -23,6 +27,8 @@ To run the bot locally, you have to do the following:
 
 **Note:** To redeploy it press Control+C and run `node shmotbot.js` again.
 
+
+
 ### Add Bot to Server
 
 Can you just add this bot to your server? I'm not sure yet, but I don't think so. You need to let the PC running it on 24/7.
@@ -35,6 +41,7 @@ Can you just add this bot to your server? I'm not sure yet, but I don't think so
 - I'm not sure what to commit; I'm trying to see what works and what the [internet suggests](https://github.com/github/gitignore/blob/master/Node.gitignore) 
 - [Crash Course on Testing](https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02)
 - [How to Define a JavaScript Class](https://www.phpied.com/3-ways-to-define-a-javascript-class/)
+
 
 
 ## License

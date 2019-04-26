@@ -1,7 +1,7 @@
 {
 	"name": "discord-shmotbot",
 	"version": "1.0.0",
-	"description": "My first attempt at a Discord bot.",
+	"description": "My first attempt at a Discord bot. It uses the shm-reduplication to mock your last word.",
 	"bugs": {
 		"url": "https://github.com/slothsoft/discord-shmotbot/issues"
 	},
