@@ -1,0 +1,15 @@
+{
+  "name": "discord-shmotbot",
+  "version": "1.0.0",
+  "description": "My first attempt at a Discord bot.",
+  "main": "shmotbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Stef Schulz <s.schulz@slothsoft.de> (http://slothsoft.de)",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
