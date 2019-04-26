@@ -13,7 +13,7 @@
 	"author": "Stef Schulz <s.schulz@slothsoft.de> (http://slothsoft.de)",
 	"keywords": [],
 	"license": "MIT",
-	"main": "shmotbot.js",
+	"main": "index.js",
 	"directories": {
 		"test": "test"
 	},
