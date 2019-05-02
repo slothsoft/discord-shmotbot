@@ -9,7 +9,7 @@
 		"type": "git",
 		"url": "https://github.com/slothsoft/discord-shmotbot.git"
 	},
-	"homepage": "http://slothsoft.de/",
+	"homepage": "https://github.com/slothsoft/discord-shmotbot#readme",
 	"author": "Stef Schulz <s.schulz@slothsoft.de> (http://slothsoft.de)",
 	"keywords": [],
 	"license": "MIT",
@@ -18,6 +18,7 @@
 		"test": "test"
 	},
 	"scripts": {
+		"start": "node index.js",
 		"test": "mocha"
 	},
 	"dependencies": {
